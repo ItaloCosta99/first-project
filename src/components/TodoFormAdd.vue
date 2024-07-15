@@ -12,8 +12,4 @@
   </form>
 </template>
 
-<script>
-export default {
-  name: 'TodoFormAdd'
-}
-</script>
+<script></script>

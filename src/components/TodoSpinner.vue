@@ -3,9 +3,3 @@
     <img src="@/assets/svg/spinner.svg" alt="" class="inline-block w-5 h-5" />
   </div>
 </template>
-
-<script>
-export default {
-  name: 'TodoSpinner'
-}
-</script>
